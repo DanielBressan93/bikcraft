@@ -10,4 +10,9 @@
 /* Home */
 @import './home/introducao.css';
 
+/*Bicicletas*/
+@import './bicicletas/bicicletas-listas.css';
+
+/*Tecnologia*/
+@import './home/tecnologia.css';
 
